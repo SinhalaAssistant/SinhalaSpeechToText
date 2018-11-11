@@ -1,0 +1,217 @@
+
+\data\
+ngram 1=37
+ngram 2=74
+ngram 3=93
+
+\1-grams:
+-0.7164314	</s>
+-99	<s>	-99
+-2.006466	bil	-99
+-2.307496	bilak	-99
+-2.006466	bill	-99
+-2.006466	card	-99
+-2.006466	credit	-99
+-2.006466	danaganna	-99
+-2.307496	danna	-99
+-2.307496	ekak	-99
+-2.006466	ekata	-99
+-2.307496	ganeemak	-99
+-1.529345	ganna	-99
+-2.307496	gannemak	-99
+-1.529345	gewanna	-99
+-1.830375	geweemak	-99
+-1.462398	ginumakata	-99
+-1.529345	ginume	-99
+-2.006466	hara	-99
+-1.705436	ithiriya	-99
+-1.307496	karanna	-99
+-1.529345	keeyada	-99
+-1.608526	kereemak	-99
+-1.705436	mage	-99
+-1.462398	maru	-99
+-1.266103	mata	-99
+-1.307496	mudal	-99
+-1.131405	oni	-99
+-1.830375	oni.	-99
+-2.006466	path	-99
+-2.006466	pathak	-99
+-1.462398	puluwnda	-99
+-1.161368	salli	-99
+-1.705436	sheshaya	-99
+-1.529345	thanpath	-99
+-1.705436	thawa	-99
+-1.830375	wenath	-99
+
+\2-grams:
+-1.591065	<s> bil	0
+-1.591065	<s> bilak	0
+-1.290035	<s> bill	0
+-1.591065	<s> credit	0
+-1.290035	<s> ginume	0
+-1.591065	<s> hara	0
+-1.591065	<s> ithiriya	-3.397983
+-1.290035	<s> mage	0
+-0.5496719	<s> mata	0
+-0.9890046	<s> mudal	-4.078701
+-0.8920946	<s> salli	-4.332076
+-1.591065	<s> sheshaya	-3.397983
+-0.9890046	<s> thawa	0
+-1.113943	<s> wenath	0
+0	bil pathak	0
+0	bilak gewanna	-3.920862
+-0.30103	bill ekak	0
+-0.30103	bill geweemak	-3.823952
+0	card ekata	0
+0	credit card	0
+0	danaganna puluwnda	0
+0	danna oni.	0
+0	ekak gewanna	-3.221892
+0	ekata salli	-4.234105
+0	ganeemak </s>
+-0.1760913	ganna oni	0
+-0.4771213	ganna puluwnda	0
+0	gannemak </s>
+-0.07918125	gewanna oni	0
+-0.7781513	gewanna puluwnda	0
+-0.4771213	geweemak </s>
+-0.1760913	geweemak karanna	-3.903112
+-0.3679768	ginumakata mudal	-4.322234
+-0.243038	ginumakata salli	-4.455943
+-0.30103	ginume ithiriya	0
+-0.30103	ginume sheshaya	0
+0	hara path	0
+-0.60206	ithiriya danaganna	0
+-0.1249387	ithiriya keeyada	0
+-0.2218488	karanna oni	0
+-0.69897	karanna oni.	0
+-0.69897	karanna puluwnda	0
+0	keeyada </s>
+0	kereemak </s>
+0	mage ginume	0
+-0.243038	maru karanna	-3.902895
+-0.3679768	maru kereemak	0
+-1.041393	mata bil	0
+-1.041393	mata credit	0
+-1.041393	mata hara	0
+-0.7403627	mata mage	0
+-0.5642715	mata mudal	-4.079279
+-0.5642715	mata salli	-4.234181
+-1	mudal ganeemak	0
+-0.5228788	mudal ganna	0
+-0.5228788	mudal maru	0
+-0.5228788	mudal thanpath	0
+0	oni </s>
+0	oni. </s>
+0	path geweemak	-3.82393
+0	pathak gewanna	-3.5229
+0	puluwnda </s>
+-1.146128	salli danna	0
+-0.6690068	salli ganna	0
+-1.146128	salli gannemak	0
+-0.845098	salli gewanna	-3.5229
+-0.544068	salli maru	0
+-0.6690068	salli thanpath	0
+-0.60206	sheshaya danaganna	0
+-0.1249387	sheshaya keeyada	0
+-0.1760913	thanpath karanna	-3.902895
+-0.4771213	thanpath kereemak	0
+0	thawa ginumakata	0
+0	wenath ginumakata	0
+
+\3-grams:
+0	<s> bil pathak
+0	mata bil pathak
+0	<s> bilak gewanna
+-0.30103	<s> bill ekak
+-0.30103	<s> bill geweemak
+0	credit card ekata
+0	<s> credit card
+0	mata credit card
+0	ithiriya danaganna puluwnda
+0	sheshaya danaganna puluwnda
+0	salli danna oni.
+0	bill ekak gewanna
+0	card ekata salli
+0	mudal ganeemak </s>
+-0.1760913	mudal ganna oni
+-0.4771212	mudal ganna puluwnda
+-0.1760913	salli ganna oni
+-0.4771212	salli ganna puluwnda
+0	salli gannemak </s>
+-4.342728e-05	bilak gewanna puluwnda
+-4.342728e-05	ekak gewanna oni
+-2.171418e-05	pathak gewanna oni
+-2.171418e-05	salli gewanna oni
+-4.342728e-05	bill geweemak </s>
+-2.171418e-05	path geweemak karanna
+-0.30103	thawa ginumakata mudal
+-0.30103	thawa ginumakata salli
+-0.4771212	wenath ginumakata mudal
+-0.1760913	wenath ginumakata salli
+-0.30103	<s> ginume ithiriya
+-0.30103	<s> ginume sheshaya
+-0.30103	mage ginume ithiriya
+-0.30103	mage ginume sheshaya
+0	<s> hara path
+0	mata hara path
+-4.342728e-05	<s> ithiriya keeyada
+-0.4771212	ginume ithiriya danaganna
+-0.1760913	ginume ithiriya keeyada
+-2.171418e-05	geweemak karanna oni
+-0.3010409	maru karanna oni
+-0.3010409	maru karanna puluwnda
+-0.3010409	thanpath karanna oni
+-0.3010409	thanpath karanna oni.
+0	ithiriya keeyada </s>
+0	sheshaya keeyada </s>
+0	maru kereemak </s>
+0	thanpath kereemak </s>
+0	<s> mage ginume
+0	mata mage ginume
+-0.1760913	mudal maru karanna
+-0.4771212	mudal maru kereemak
+-0.30103	salli maru karanna
+-0.30103	salli maru kereemak
+-1.041393	<s> mata bil
+-1.041393	<s> mata credit
+-1.041393	<s> mata hara
+-0.7403627	<s> mata mage
+-0.5642715	<s> mata mudal
+-0.5642715	<s> mata salli
+-0.6020709	<s> mudal ganeemak
+-0.6020709	<s> mudal ganna
+-0.3010409	<s> mudal thanpath
+-1.447624e-05	ginumakata mudal maru
+-0.1761057	mata mudal ganna
+-0.4771357	mata mudal thanpath
+0	ganna oni </s>
+0	gewanna oni </s>
+0	karanna oni </s>
+0	danna oni. </s>
+0	karanna oni. </s>
+0	hara path geweemak
+0	bil pathak gewanna
+0	danaganna puluwnda </s>
+0	ganna puluwnda </s>
+0	gewanna puluwnda </s>
+0	karanna puluwnda </s>
+-0.6989787	<s> salli danna
+-0.6989787	<s> salli ganna
+-0.6989787	<s> salli gannemak
+-0.3979487	<s> salli thanpath
+-2.171418e-05	ekata salli gewanna
+-1.085723e-05	ginumakata salli maru
+-0.1761057	mata salli ganna
+-0.4771357	mata salli thanpath
+-4.342728e-05	<s> sheshaya keeyada
+-0.4771212	ginume sheshaya danaganna
+-0.1760913	ginume sheshaya keeyada
+-0.1760913	mudal thanpath karanna
+-0.4771212	mudal thanpath kereemak
+-0.1760913	salli thanpath karanna
+-0.4771212	salli thanpath kereemak
+0	<s> thawa ginumakata
+0	<s> wenath ginumakata
+
+\end\

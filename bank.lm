@@ -1,0 +1,100 @@
+
+\data\
+ngram 1=19
+ngram 2=32
+ngram 3=36
+
+\1-grams:
+-0.7024305	</s>
+-99	<s>	-99
+-1.674402	danaganna	-99
+-1.878522	danna	-99
+-1.674402	ganaganna	-99
+-1.072342	ginume	-99
+-1.276462	ithiriya	-99
+-1.276462	karanna	-99
+-1.197281	keeyada	-99
+-1.577492	kereemak	-99
+-1.197281	mage	-99
+-1.162519	mata	-99
+-1.577492	mudal	-99
+-1.878522	mudala	-99
+-1.179552	oni	-99
+-1.373372	puluwnda	-99
+-1.276462	salli	-99
+-1.276462	sheshaya	-99
+-1.100371	thanpath	-99
+
+\2-grams:
+-0.9719713	<s> ginume	0
+-1.273001	<s> ithiriya	-1
+-0.9719713	<s> mage	0
+-0.4600879	<s> mata	0
+-1.176091	<s> mudal	0
+-1.176091	<s> mudala	0
+-0.69897	<s> salli	0
+-1.273001	<s> sheshaya	-1
+0	danaganna puluwnda	0
+0	danna oni	0
+0	ganaganna puluwnda	0
+-0.30103	ginume ithiriya	0
+-0.30103	ginume sheshaya	0
+-0.39794	ithiriya ganaganna	0
+-0.2218488	ithiriya keeyada	0
+0	karanna oni	0
+0	keeyada </s>
+0	kereemak </s>
+0	mage ginume	0
+-0.2108534	mata mage	0
+-0.7160034	mata mudal	0
+-0.7160034	mata salli	-0.8893017
+0	mudal thanpath	-1.308209
+0	mudala thanpath	-1.31527
+0	oni </s>
+0	puluwnda </s>
+-0.60206	salli danna	0
+-0.1249387	salli thanpath	0
+-0.39794	sheshaya danaganna	0
+-0.2218488	sheshaya keeyada	0
+-0.1760913	thanpath karanna	0
+-0.4771213	thanpath kereemak	0
+
+\3-grams:
+0	sheshaya danaganna puluwnda
+0	salli danna oni
+0	ithiriya ganaganna puluwnda
+-0.30103	<s> ginume ithiriya
+-0.30103	<s> ginume sheshaya
+-0.30103	mage ginume ithiriya
+-0.30103	mage ginume sheshaya
+-0.01772877	<s> ithiriya keeyada
+-0.30103	ginume ithiriya ganaganna
+-0.30103	ginume ithiriya keeyada
+0	thanpath karanna oni
+0	ithiriya keeyada </s>
+0	sheshaya keeyada </s>
+0	thanpath kereemak </s>
+0	<s> mage ginume
+0	mata mage ginume
+-0.2108534	<s> mata mage
+-0.7160033	<s> mata mudal
+-0.7160033	<s> mata salli
+0	<s> mudal thanpath
+0	mata mudal thanpath
+0	<s> mudala thanpath
+0	danna oni </s>
+0	karanna oni </s>
+0	danaganna puluwnda </s>
+0	ganaganna puluwnda </s>
+-0.4771212	<s> salli danna
+-0.1760913	<s> salli thanpath
+-0.01424044	mata salli thanpath
+-0.01772877	<s> sheshaya keeyada
+-0.30103	ginume sheshaya danaganna
+-0.30103	ginume sheshaya keeyada
+-0.007178585	mudal thanpath karanna
+-0.01424044	mudala thanpath kereemak
+-0.1760913	salli thanpath karanna
+-0.4771212	salli thanpath kereemak
+
+\end\
